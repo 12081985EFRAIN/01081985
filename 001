@@ -292,13 +292,13 @@ https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
 https://spt-competencias-1-us.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_4027316ece5e4aea8a51d0eb06c58c06~mv2.png"group-title="Canales",SONY COMEDIAS
 https://spt-comedias-1-us.samsung.wurl.tv/2000.m3u8
-#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/ima71101379954.jpg"group-title="Musicales",VIWIX ACCION
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/ima71101379954.jpg"group-title="Canales",VIWIX ACCION
 https://s1.tvdatta.com:3457/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image89298517909.jpg"group-title="Musicales",VIWIX ESTRENOS
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image89298517909.jpg"group-title="Canales",VIWIX ESTRENOS
 https://s1.tvdatta.com:3172/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/ima98966892856.jpg"group-title="Musicales",VIWIX SERIES
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/ima98966892856.jpg"group-title="Canales",VIWIX SERIES
 https://s1.tvdatta.com:3402/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/ima35918408679.jpg"group-title="Musicales",VIWIX TERROR
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/ima35918408679.jpg"group-title="Canales",VIWIX TERROR
 https://s1.tvdatta.com:3849/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.blogs.es/87ba40/vix-/450_1000.jpeg"group-title="Canales",VIX CINECLUB
 https://linear-192.frequency.stream/192/hls/master/playlist_1280x720.m3u8
@@ -491,8 +491,6 @@ https://legochannel-roku.amagi.tv/playlist1080-p.m3u8
 
 
 MÚSICA
-#EXTINF:-1 tvg-logo="https://telemusica.tv/wp-content/uploads/2022/08/Telemusicax512.png"group-title="Musicales",Telemusica
-https://canal.mediaserver.com.co:8088/live/telemusica.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/467_TV_Pop.jpg"group-title="Musicales",TV Pop PELICULAS Y MUSICA
 https://v4.tustreaming.cl/poptv/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/897_Retro_Play_TV.png"group-title="Musicales",RetroPlay TV
@@ -589,6 +587,8 @@ https://mediacpstreamchile.com:1936/latinosmedia-1/latinosmedia-1/playlist.m3u8
 https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/22_Video_Tour_Channel.png"group-title="Musicales",Canal Video Tour
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://telemusica.tv/wp-content/uploads/2022/08/Telemusicax512.png"group-title="Musicales",Telemusica
+https://canal.mediaserver.com.co:8088/live/telemusica.m3u8
 
 CRISTIANOS
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_993f5ef61257490b9d7b24a5eefc6d22~mv2.png"group-title="Religioso",CBN ESPAÑOL
