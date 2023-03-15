@@ -18,10 +18,6 @@ httpr:xxx.com/147272
 #EXTINF:-1 grupo-título="HBO",HBO PLUS
 httpr:xxx.com/64059
 #EXTINF:-1 grupo-título="HBO",HBO 2 SD
-httpr:xxx.com/60991
-#EXTINF:-1 grupo-título="HBO", SD familiar de HBO
-httpr:xxx.com/60992
-#EXTINF:-1 grupo-título="HBO",HBO Plus SD
 httpr:xxx.com/60993
 #EXTINF:-1 grupo-título="HBO",SD de HBO
 httpr:xxx.com/60994
@@ -119,7 +115,7 @@ httpr:tv-cool.com:xxx.com102321
 #EXTINF:-1 grupo-título="UNIVERSAL",Universal Channel -
 httpr:tv-cool.com:xxx.com41026
 #EXTINF:-1 group-title="UNIVERSAL",Universal Comedia -
-httpr:tv-cool.com:xxx.com128512
+httpr:tv-cool.com:xxx.com128512NUEV ACLAVE
 #EXTINF:-1 grupo-título="UNIVERSAL",Universal Comedia -
 httpr:tv-cool.com:xxx.com76353
 #EXTINF:-1 group-title="UNIVERSAL",Universal Crime -
