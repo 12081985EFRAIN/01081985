@@ -70,9 +70,9 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
 NACIONALES
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/03/Bolivisi%C3%B3n-en-vivo-Online-218x150.png"group-title= "Bolivia", Bolivision
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/03/Bolivisi%C3%B3n-en-vivo-Online-218x150.png"group-title="Bolivia", Bolivision
 https://d2byzrnrdb259r.cloudfront.net/hls/live_480p30.m3u8
-#EXTINF:-1 tvg-logo="https://online-television.net/uploads/posts/2022-11/upp-tv.webp"group-title= "Bolivia", UPPTV
+#EXTINF:-1 tvg-logo="https://online-television.net/uploads/posts/2022-11/upp-tv.webp"group-title="Bolivia", UPPTV
 https://d2byzrnrdb259r.cloudfront.net/hls/upptv_360.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/ATBBo2020Logo.png/150px-ATBBo2020Logo.png"group-title="Bolivia",ATB
 http://186.121.206.197/live/daniel/index.m3u8
@@ -120,9 +120,9 @@ https://master.tucableip.com/live/tvlatinamontero/tracks-v1a1/mono.m3u8
 http://hd.istbolivia.com:1935/aynitv/aynitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_d2b1cc4b7fea48889c921d744dd5d69a~mv2.png"group-title="Bolivia",Imperial-TV
 https://stmv.panel.grupolimalive.com/imperial/imperial/chunklist_w1771332187.m3u8
-#EXTINF:-1 tvg-logo="https://tvu.umsa.bo/image/layout_set_logo?img_id=4193924&t=1656719297689" group-title="Bolivia",TVU UMSA
+#EXTINF:-1 tvg-logo="https://tvu.umsa.bo/image/layout_set_logo?img_id=4193924&t=1656719297689"group-title="Bolivia",TVU UMSA
 http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvusucre.com/images/Cabeza-logo.png" group-title="Bolivia",TVU Sucre
+#EXTINF:-1 tvg-logo="https://www.tvusucre.com/images/Cabeza-logo.png"group-title="Bolivia",TVU Sucre
 https://solo.disfrutaenlared.com:1936/tuch/ngrp:tuch_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://deportetotal.com.bo/wp-content/uploads/2018/09/dt-horizontal-logo.png" group-title="Bolivia",DTPlay
 https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
