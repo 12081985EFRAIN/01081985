@@ -3,18 +3,12 @@
 https://stream-52.zeno.fm/zs1ynrtnsuhvv?
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/c767dc0905ee282c6ea1b565625e7ca7.png"group-title="DEPORTES",CitySports
 https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_e110d34dfd7149a7b1215ee4eca36c02~mv2.png"group-title="DEPORTES",TVC DEPORTES
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/71693
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_2384cc64be2f4246a29b7250e1f870c0~mv2.png"group-title="DEPORTES",TyC SPORTS
 http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/71690
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_2384cc64be2f4246a29b7250e1f870c0~mv2.png"group-title="DEPORTES",TyC SPORTS 2
 https://d21no6qan3ol31.cloudfront.net:443/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index_13.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_2384cc64be2f4246a29b7250e1f870c0~mv2.png"group-title="DEPORTES",TyC SPORTS 3
 https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index_10.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9f54c72aad2c433390f57ebec8f2037c~mv2.png"group-title="DEPORTES",ESPN XTRA
-http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv69xBqKVq63QnAkjxe3ETSs/ts
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9f54c72aad2c433390f57ebec8f2037c~mv2.png"group-title="DEPORTES",ESPN
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/73326
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9f54c72aad2c433390f57ebec8f2037c~mv2.png"group-title="DEPORTES",ESPN
 http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv-k9ceMua2QQfhZOHw4CAFw/ts
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9f54c72aad2c433390f57ebec8f2037c~mv2.png"group-title="DEPORTES",ESPN SUR
@@ -27,6 +21,8 @@ http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROvyQlr6lILS1iFybsthZYIgQ/ts
 http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROvxNsSj7PJPcqUIlaXvjL_mU/ts
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9f54c72aad2c433390f57ebec8f2037c~mv2.png"group-title="DEPORTES",ESPN4
 http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/68527
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9f54c72aad2c433390f57ebec8f2037c~mv2.png"group-title="DEPORTES",ESPN XTRA
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv69xBqKVq63QnAkjxe3ETSs/ts
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_1bce6e04b88044a68fa5dfc3c44aecec~mv2.png"group-title="DEPORTES",Directv Sport Arg
 
 http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/73325
@@ -743,7 +739,7 @@ https://cdn.oneplaychile.cl:1936/regionales/nublevision.stream/chunks.m3u8
 RADIOS
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9d2a29ea8c0546a398cb99d3fa0e0b3f~mv2.png"group-title="Radios",MUNDO-MIX-B
 https://stream-52.zeno.fm/zs1ynrtnsuhvv?
-#EXTINF:-1 tvg-logo="https://grupocity.net.ar/wp-content/uploads/2022/10/captura2.png"group-title="Radios",Ciudad Mágica Radio
+#EXTINF:-1 tvg-logo="https://sonidosenlared.fullstreaming.ar/cp/widgets/player/single/images/mp3_cover2.jpg"group-title="Radios",Ciudad Mágica Radio
 https://sonidosenlared.fullstreaming.ar/8002/stream
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s165652/images/logog.jpg?t=155085"group-title="Radios",Radio Antena2000
 https://cloudstream2030.conectarhosting.com/8170/stream
@@ -757,10 +753,8 @@ https://ares.disfrutaenlared.com/6048/stream
 https://sc10.conectarhosting.com/proxy/erbol?mp=/stream/1/
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/1e307e043f0861ca26cfb3715985f9cf.jpg"group-title="Radios",Radio Marítima FM
 http://spanel.gcomstreaming.com:8004/stream
-#EXTINF:-1 tvg-logo=""group-title="Radios",Roja Chuquisaqueña
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xfHCvCZ/radio-chuquisaca.png"group-title="Radios",Roja Chuquisaqueña
 http://zeus.imd.la:8050/?t=1546813175
-#EXTINF:-1 tvg-logo=""group-title="Radios",Radio Sucre 1320 AM
-http://radios.imd.com.bo:7791/?t=1546727823
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/4yzudua5pcjf.jpg"group-title="Radios",Radio Aclo AM SUCRE
 https://cloudstream2030.conectarhosting.com/8192/stream
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/4yzudua5pcjf.jpg"group-title="Radios",Radio Aclo FM SUCRE
@@ -774,7 +768,7 @@ https://stream-28.zeno.fm/pnwpbyfambruv
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/pSpqFu7dtH.png"group-title="Radios",PANAMERICANA2
 https://node-31.zeno.fm/pnwpbyfambruv?rj-ttl=5&rj-tok=AAABe8YOj-wA3DdN5yvK81mD6A
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/dageehpbwarn.png"group-title="Radios",EL DEBER
-https://servicios.eldeber.com.bo/live
+https://cast.az-streamingserver.com/proxy/grupoeld?mp=/stream
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/hzyrqgyzqvuw.png"group-title="Radios",CNN ESPAÑOL
 https://audio.bustream.com:8032/stream
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/yxqpascr3kgn.png"group-title="Radios",Radio Guadalupe 105.1 FM
@@ -789,35 +783,35 @@ https://stream.rcast.net/63337
 https://stream-44.zeno.fm/7kntayvr1f8uv?zs=gRraQaKlTJWR4KW-sEsHdw
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/5VcnQuh7zr.png"group-title="Radios",Radio Mix Cumbias
 https://stream-22.zeno.fm/52khku4yd5zuv?zs=s1OHR_5YSjaJBiDAyB5e1A
-#EXTINF:-1 tvg-logo=""group-title="Radios",MEZCLA DE RADIO CUMBIA
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3617/3617100.png"group-title="Radios",MEZCLA DE RADIO CUMBIA
 https://streaming.gometri.com/stream/8017/stream
-#EXTINF:-1 tvg-logo=""group-title="Radios",MEZCLA DE RADIO PLATA
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3617/3617100.png"group-title="Radios",MEZCLA DE RADIO PLATA
 https://sonic1.transmissaodigital.com:7058/;
-#EXTINF:-1 tvg-logo=""group-title="Radios",MEZCLA DE RADIO MAGO
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3617/3617100.png"group-title="Radios",MEZCLA DE RADIO MAGO
 https://node-31.zeno.fm/nwzerpfbs8quv
-#EXTINF:-1 tvg-logo=""group-title="Radios",MAXIMA CUMBIA CL
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3617/3617100.png"group-title="Radios",MAXIMA CUMBIA CL
 https://node-09.zeno.fm/5me4hg77568uv
 #EXTINF:-1 tvg-logo="https://tropical90.emisora.info/fotos/logo.jpg"group-title="Radios",CUMBIA 90s BOLIVIA
 http://emiteradio.com:8223/stream
-#EXTINF:-1 tvg-logo=""group-title="Radios",CUMBIA PARA RECORDAR
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3617/3617100.png"group-title="Radios",CUMBIA PARA RECORDAR
 https://nodo-02.zeno.fm/d4gm2mcym18uv
-#EXTINF:-1 tvg-logo=""group-title="Radios",CUMBIA QUE NOS GUSTA
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3617/3617100.png"group-title="Radios",CUMBIA QUE NOS GUSTA
 https://node-28.zeno.fm/1276g6drneruv
-#EXTINF:-1 tvg-logo=""group-title="Radios",CUMBIAS DE COLECCION
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3617/3617100.png"group-title="Radios",CUMBIAS DE COLECCION
 https://nodo-15.zeno.fm/qysucps4f3quv
-#EXTINF:-1 tvg-logo=""group-title="Radios",PLANETA CUMBIA
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3617/3617100.png"group-title="Radios",PLANETA CUMBIA
 https://nodo-24.zeno.fm/60pqgs97f2zuv
-#EXTINF:-1 tvg-logo=""group-title="Radios",CUMBIA MIX O LATINO
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3617/3617100.png""group-title="Radios",CUMBIA MIX O LATINO
 https://node-23.zeno.fm/xpe0b2f42mzuv
-#EXTINF:-1 tvg-logo=""group-title="Radios",CUMBIA YA
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3617/3617100.png""group-title="Radios",CUMBIA YA
 https://node-20.zeno.fm/we1pq30umd0uv
-#EXTINF:-1 tvg-logo=""group-title="Radios",CUMBIA VILLERA
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3617/3617100.png"group-title="Radios",CUMBIA VILLERA
 https://node-01.zeno.fm/tp2vw2u1krruv
-#EXTINF:-1 tvg-logo=""group-title="Radios",CLAVE VILLERO
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3617/3617100.png"group-title="Radios",CLAVE VILLERO
 https://buecrplb01.cienradios.com.ar/779_Cumbia_32000.aac
-#EXTINF:-1 tvg-logo=""group-title="Radios",RADIO FIESTA SUR
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3617/3617100.png"group-title="Radios",RADIO FIESTA SUR
 https://sonic.dattassd.com:10938/;
-#EXTINF:-1 tvg-logo=""group-title="Radios",CUMBIA A PLENO
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3617/3617100.png"group-title="Radios",CUMBIA A PLENO
 https://node-17.zeno.fm/1n6w364parzuv
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/BhJDUBZnYe.png"group-title="Radios",Radio Mix Reguetón Latino
 https://stream-16.zeno.fm/wx6uuv7y14zuv
@@ -863,11 +857,11 @@ https://stream-44.zeno.fm/y6bu5rkpmnruv?zs=cutVJgKSSAuqgERiH5sRtw
 https://cloudstream2032.conectarhosting.com/9586/;
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/2d958b4be445570138e6ad1dd65a97b0.jpg"group-title="Radios",Ritmo Romántica 93.1 FM
 https://25083.live.streamtheworld.com/CRP_RIT.mp3
-#EXTINF:-1 tvg-logo=""group-title="Radios",RADIO ROMANTICA
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3617/3617100.png"group-title="Radios",RADIO ROMANTICA
 https://buecrplb01.cienradios.com.ar/1081_Romantica_32000.aac
-#EXTINF:-1 tvg-logo=""group-title="Radios",ROMÁNTICA 2000
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3617/3617100.png"group-title="Radios",ROMÁNTICA 2000
 https://buecrplb01.cienradios.com.ar/766_Romantica_2000_32000.aac
-#EXTINF:-1 tvg-logo=""group-title="Radios",ROMÁNTICA 90
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3617/3617100.png"group-title="Radios",ROMÁNTICA 90
 https://buecrplb01.cienradios.com.ar/593_Romantica_90_32000.aac
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/6ssgtmexcjtb.png"group-title="Radios",RADIO DISNEY POP
 http://144.217.67.108:9156/;
@@ -883,11 +877,11 @@ https://stream-38.zeno.fm/5h0autw6y98uv?zs=IrK86lXdRfSTFZxMTRdIgw
 http://strm112.1.fm/atr_mobile_mp3
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/aWa7xGKfBh.jpg"group-title="Radios",House Nation Reino Unido
 http://radio.housenationuk.com:9000/;
-#EXTINF:-1 tvg-logo=""group-title="Radios",Full Techno CLASIC
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3617/3617100.png"group-title="Radios",Full Techno CLASIC
 http://184.154.28.210:7150/corriente
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/n7gdnuywj2qp.png"group-title="Radios",TechnoFM
 https://stream.techno.fm/radio1-192k.mp3
-#EXTINF:-1 tvg-logo=""group-title="Radios",Inthemix Radio
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3617/3617100.png"group-title="Radios",Inthemix Radio
 http://01.solumedia.com.ar:8230/stream?icy=http
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/b1de99c4730aff46273e2456c73512a3.jpg"group-title="Radios",Mega Djs 89.8 FM
 http://eu8.fastcast4u.com:5682/?t=1546809059
@@ -901,11 +895,11 @@ https://21423.live.streamtheworld.com/T_RAD_HITS_S01_SC
 http://lunaworld.lunabroadcasting.net/stream?ver=96178
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ydthqx5dvp7h.png"group-title="Radios",Beam FM
 http://shoutcast.beamfm.net:8504/;
-#EXTINF:-1 tvg-logo=""group-title="Radios",FM Top 104.9
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3617/3617100.png"group-title="Radios",FM Top 104.9
 http://62.210.129.76:7940/?t=1546815480
-#EXTINF:-1 tvg-logo=""group-title="Radios",FM Eclipse
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3617/3617100.png"group-title="Radios",FM Eclipse
 http://198.50.206.239:8006/?t=1546817068
-#EXTINF:-1 tvg-logo=""group-title="Radios",Radio Festiva
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3617/3617100.png"group-title="Radios",Radio Festiva
 http://s6.jcwebnew.com:8070/stream?t=1546818258
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/hddjj2stcqhr.png"group-title="Radios",BBN Español
 https://audio-edge-es6pf.mia.g.radiomast.io/475ebed1-595e-4717-b888-64fe8fc6b09f
@@ -913,15 +907,15 @@ https://audio-edge-es6pf.mia.g.radiomast.io/475ebed1-595e-4717-b888-64fe8fc6b09f
 https://stream-47.zeno.fm/ufpfss4aguhvv?
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/1216bca5ecbbcfa8b7ce545bc90454c9.jpg"group-title="Radios",Radio Nuevo Tiempo
 https://cloudstream2030.conectarhosting.com:10871/stream
-#EXTINF:-1 tvg-logo=""group-title="Radios",CVC La voz Cristian
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3617/3617100.png"group-title="Radios",CVC La voz Cristian
 http://108.170.61.114:8240/;stream.nsv
-#EXTINF:-1 tvg-logo=""group-title="Radios",Bethel Radio
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3617/3617100.png"group-title="Radios",Bethel Radio
 http://96.31.83.86:8158/corriente
-#EXTINF:-1 tvg-logo=""group-title="Radios",Radio Betania 93.7
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3617/3617100.png"group-title="Radios",Radio Betania 93.7
 http://icecast.radiobetania.com:8000/betania.mp3?t=1546727627
-#EXTINF:-1 tvg-logo=""group-title="Radios",Cristo Viene COCHABAMBA
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3617/3617100.png"group-title="Radios",Cristo Viene COCHABAMBA
 http://usa1.usastreams.com:8000/cbtsrl?t=1546728157
-#EXTINF:-1 tvg-logo=""group-title="Radios",El Sonido de la VIDA 89.3
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3617/3617100.png"group-title="Radios",El Sonido de la VIDA 89.3
 http://servidor.streambolivia.com:9890/?t=1546809597
-#EXTINF:-1 tvg-logo=""group-title="Radios",Bendita trinidad 1540 AM
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3617/3617100.png"group-title="Radios",Bendita trinidad 1540 AM
 http://195.154.182.222:25107/live?t=1546811669
