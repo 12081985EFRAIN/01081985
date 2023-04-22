@@ -63,18 +63,6 @@ httpr:xxx.com/124320
 httpr:xxx.com/27857
 #EXTINF:-1 grupo-título="FOX SPORTS PREMIUM",FOX SPORTS PREMIUM HD
 httpr:xxx.com/27857
-#EXTINF:-1 grupo-título="FOX DEPORTES PREMIUM",FOX DEPORTES PREMIUM
-httpr:/1044581
-#EXTINF:-1 grupo-título="FOX DEPORTES PREMIUM",FOX DEPORTES PREMIUM
-httpr:axr.life:80/096154/686531/1058496
-#EXTINF:-1 grupo-título="FOX DEPORTES PREMIUM",FOX DEPORTES PREMIUM
-httpr:xxx.com/124320
-#EXTINF:-1 group-title="FOX SPORTS",Fox Sports 1 - -
-httpr:tv-cool.com:xxx.com63152
-#EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 1 HD MÉXICO
-httpr:xxx.com/201540
-#EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 2 HD MÉXICO
-httpr:xxx.com/201541
 #EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 3 HD MÉXICO
 httpr:xxx.com/201542
 #EXTINF:-1 group-title="FOX SPORTS",Fox Sports - -
