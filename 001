@@ -88,9 +88,9 @@ https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
 NACIONALES
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/03/Bolivisi%C3%B3n-en-vivo-Online-218x150.png"group-title="Bolivia", Bolivision
-https://nedbolivision.akamaized.net/hls/live/2101283/bolivision/level_2.m3u8
+https://nedbolivision.akamaized.net/hls/live/2101283/bolivision/master.m3u8
 #EXTINF:-1 tvg-logo="https://online-television.net/uploads/posts/2022-11/upp-tv.webp"group-title="Bolivia", UPPTV
-https://nedbolivision.akamaized.net/hls/live/2101284/upptvbo/level_1.m3u8
+https://nedbolivision.akamaized.net/hls/live/2101284/upptvbo/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_0ea3704fc09d442d9ce73abe8315b084~mv2.png"group-title="Bolivia",UNITEL
 http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv31aBaiBOehrT9iZ5WliUwY/ts
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_5833fc7fc596498a828dac4212765aee~mv2.png"group-title="Bolivia",RED UNO
