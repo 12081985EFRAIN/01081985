@@ -43,12 +43,14 @@ http://canaltv.istbolivia.com:1935/vostv/vostv/playlist.m3u8
 http://tv.istbolivia.com:1935/tvshow/tvshow/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_1e13f49f1a1447ac939cc7032acafe33~mv2.png"group-title="Bolivia",NEO TV
 https://vdo.panelchs.com:3418/live/neotvlive.m3u8
-#EXTINF:-1 tvg-logo="https://ceacomtv.com/wp-content/uploads/2020/12/Logo-CEACOM-01-e1608759749137.png"group-title="Bolivia",TV CEACOM Oruro
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_0315c88dab354c459d16d29102f7fe30~mv2.png"group-title="Bolivia",CEACOM
 https://cloud2.streaminglivehd.com:1936/ceacom/ceacom/chunklist_w1514044271.m3u8
 #EXTINF:-1, tvg-logo="https://www.audiokiss.com/tvlatina/wp-content/uploads/sites/7/2021/03/logo-tvlatina.png"group-title="Bolivia" ,TVLatina
 https://master.tucableip.com/live/tvlatinamontero/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_ebd0393a990f4fe3ba97aff8514fe34f~mv2.png"group-title="Bolivia",CVC
 https://5d00db0e0fcd5.streamlock.net/7034/7034/chunklist_w1500290821.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_a4e4dd5d496645619d84199965903b19~mv2.png"group-title="Bolivia",Mega TV Amazonia
+http://canaltv.istbolivia.com:1935/megatv/megatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_d1eb2866e42f474db4ef3b8b05c8a459~mv2.png"group-title="Bolivia",ERBOL HD
 https://cloud2.streaminglivehd.com:1936/8182/8182/chunklist_w355303119.m3u8
 #EXTINF:-1 tvg-logo="http://redcctvbolivia.com/images/Recurso-4.png"group-title="Bolivia",Canal Red CCTV
@@ -69,8 +71,6 @@ https://live.seo.tv.bo/live/4SEO.m3u8
 
 https://live.seo.tv.bo/live/7SEO.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_a4e4dd5d496645619d84199965903b19~mv2.png"group-title="Bolivia",Mega TV Amazonia
-http://canaltv.istbolivia.com:1935/megatv/megatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.telesurtv.net/export/sites/telesur/arte/log-iso-telesur.png_253617125.png"group-title="Canales",TELESUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_716402ebe52c4a5eb24d3083f0ac6941~mv2.png"group-title="Canales",RT NOTICIAS
@@ -111,8 +111,6 @@ https://streaming.telecablecentral.com.do/live/MicroHD/chunklist_w952095212.m3u8
 https://cdn4.hostlagarto.com:8081/static/cotubanamatv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Telemadrid.svg/640px-Telemadrid.svg.png"group-title="Canales", TELEMADRID HD
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_1.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_7905008a73e84e28a3f2e007243dd174~mv2.png"group-title="Canales",CMMPlay ES
-https://klive.kaltura.com/s/env/cluster-1-d.live.nvp1/live/hls/p/2288691/e/1_01fn4ycl/tl/main/st/0/t/7pOlumTI2IYfT-MXxcUMxw/index-s32.m3u8?__hdnea__=st=1685811587~exp=1685897987~acl=/s/env/cluster-1-d.live.nvp1/live/hls/p/2288691/e/1_01fn4ycl/tl/main/st/0/t/7pOlumTI2IYfT-MXxcUMxw/index-s32.m3u8*~hmac=e9a68f4ae8671194753354b4490fed34ac4a7ed02c4af4bd8b1dd90a7b46a110
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_7b2fc166ea554e76a4cabe622bf62e85~mv2.png"group-title="Bolivia"MundoVision CO
 https://movil.ejeserver.com/live/mundovisiontv.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1494034968850444296/fnQ0cLB-_400x400.jpg"group-title="Canales",Mexiquense
@@ -129,12 +127,8 @@ https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.m3u8
 https://v4.tustreaming.cl/poptv/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_949a55671da440868918edb100d58866~mv2.png"group-title="Canales",TROPICAL TV
 https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/chunklist_w806658079.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_d2965dbfd0614f5c82acda8af93c60dc~mv2.png"group-title="Canales",Multizonas TV CRI
-https://cloudvideo.servers10.com:8081/8124/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9ffaa5684d934605808320be38f27d49~mv2.png"group-title="Cine",NEO TV HD
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_cde0eda76c51490eac3631932dd7f442~mv2.png"group-title="Canales",Veo TV CO
-https://movil.ejeserver.com/live/veotv.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_41c5d7639f214568adb5693240afc5de~mv2.png"group-title="Canales",TVC
 https://d1qovwsteln4u.cloudfront.net/hls/tvc_480.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_41c5d7639f214568adb5693240afc5de~mv2.png"group-title="Canales",TVC
@@ -143,126 +137,19 @@ https://d1qovwsteln4u.cloudfront.net/hls/tvc_360.m3u8
 https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_7779ba8cafd74ee8a49b291178943a51~mv2.png"group-title="Canales",CINCO TV
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0jk.png"group-title="Canales",Canal 11 - GUA
-http://45.5.119.155:8000/play/a0jk/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0jj.png"group-title="Canales",Canal 13-GUA
-http://45.5.119.155:8000/play/a0jj/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0h5.png"group-title="Canales",Canal 3 - GUA
-http://45.5.119.155:8000/play/a0h5/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0h3.png"group-title="Canales",TV AZTEKA GUA
-http://45.5.119.155:8000/play/a0h3/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_c86ecb9be10b42fe9c9f6c2a4b5364e9~mv2.png"group-title="Cine",CANELA TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=653
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_c86ecb9be10b42fe9c9f6c2a4b5364e9~mv2.png"group-title="Cine",ACCION MEXICANA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_c09dbe44cdc64c00bfea7f93c28f610a~mv2.png"group-title="Cine",CINE ROMANTICO
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_21a3d56f3c214813b3bc1b2fb392d7ac~mv2.png"group-title="Cine",CINE PIX BR
+https://stmv1.srvif.com/channel1/channel1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_5e292e84c8ea4e558538fc680a04a868~mv2.png"group-title="Cine",MOVIE FE
+https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
+
 
 CINE
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0gu.png"group-title="Canales",AMC HD
-http://45.5.119.155:8000/play/a0gu/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0gq.png"group-title="Canales",Animal Planet HD
-http://45.5.119.155:8000/play/a0gq/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0iy.png"group-title="Canales",AXN HD
-http://45.5.119.155:8000/play/a0iy/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0gz.png"group-title="Canales",AZ click HD
-http://45.5.119.155:8000/play/a0gz/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0g6.png"group-title="Canales",Azcorazon
-http://45.5.119.155:8000/play/a0g6/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0h8.png"group-title="Canales",Azmundo
-http://45.5.119.155:8000/play/a0h8/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0ik.png"group-title="Canales",Cine Latino
-http://45.5.119.155:8000/play/a0ik/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0hq.png"group-title="Canales",CINECANAL HD
-http://45.5.119.155:8000/play/a0hq/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0il.png"group-title="Canales",CineMax
-http://45.5.119.155:8000/play/a0il/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0hl.png"group-title="Canales",Claro Cinema
-http://45.5.119.155:8000/play/a0hl/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0hy.png"group-title="Canales",Comedy Central HD
-http://45.5.119.155:8000/play/a0hy/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0gy.png"group-title="Canales",DHE HD
-http://45.5.119.155:8000/play/a0gy/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0kn.png"group-title="Canales",Discovery Channel HD
-http://45.5.119.155:8000/play/a0kn/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0hv.png"group-title="Canales",DISCOVERY THEATHER HD
-http://45.5.119.155:8000/play/a0hv/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0ia.png"group-title="Canales",Discovery Turbo
-http://45.5.119.155:8000/play/a0ia/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0kp.png"group-title="Canales",Discovery World HD
-http://45.5.119.155:8000/play/a0kp/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0gr.png"group-title="Canales",E! Entertairment HD
-http://45.5.119.155:8000/play/a0gr/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a00x.png"group-title="Canales",EURO Channel
-http://45.5.119.155:8000/play/a00x/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a00u.png"group-title="Canales",Europa HD
-http://45.5.119.155:8000/play/a00u/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0gs.png"group-title="Canales",Film & arts HD
-http://45.5.119.155:8000/play/a0gs/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0gw.png"group-title="Canales",FX HD
-http://45.5.119.155:8000/play/a0gw/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0gx.png"group-title="Canales",Sony Movies HD
-http://45.5.119.155:8000/play/a0gx/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0jv.png"group-title="Canales",Golden
-http://45.5.119.155:8000/play/a0jv/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0l2.png"group-title="Canales",HBO HD
-http://45.5.119.155:8000/play/a0l2/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0l6.png"group-title="Canales",HBO XTREME HD
-http://45.5.119.155:8000/play/a0l6/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ea714e3b-6ef4-46da-87e9-71eb71141a09_m.jpg"group-title="Canales",HBO2 HD
-http://45.5.119.155:8000/play/a00c/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0jp.png"group-title="Canales",History 2
-http://45.5.119.155:8000/play/a0jp/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0gk.png"group-title="Canales",History Channel HD
-http://45.5.119.155:8000/play/a0gk/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0hx.png"group-title="Canales",HOLA! TV HD
-http://45.5.119.155:8000/play/a0hx/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0hw.png"group-title="Canales",Home & Health HD
-http://45.5.119.155:8000/play/a0hw/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0gb.png"group-title="Canales",LIFE TIME
-http://45.5.119.155:8000/play/a0gb/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0ij.png"group-title="Canales",Multipremier
-http://45.5.119.155:8000/play/a0ij/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0kk.png"group-title="Canales",Nat Geo HD
-http://45.5.119.155:8000/play/a0kk/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0kl.png"group-title="Canales",Paramount HD
-http://45.5.119.155:8000/play/a0kl/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0hp.png"group-title="Canales",SONY HD
-http://45.5.119.155:8000/play/a0hp/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0iz.png"group-title="Canales",SPACE HD
-http://45.5.119.155:8000/play/a0iz/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0hn.png"group-title="Canales",STAR CHANNEL HD
-http://45.5.119.155:8000/play/a0hn/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0g4.png"group-title="Canales",tru tv
-http://45.5.119.155:8000/play/a0g4/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0h0.png"group-title="Canales",Star TVE HD
-http://45.5.119.155:8000/play/a0h0/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0go.png"group-title="Canales",Studio Universal HD
-http://45.5.119.155:8000/play/a0go/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0g9.png"group-title="Canales",TBS
-http://45.5.119.155:8000/play/a0g9/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0jw.png"group-title="Canales",TCM
-http://45.5.119.155:8000/play/a0jw/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0hh.png"group-title="Canales",TLC
-http://45.5.119.155:8000/play/a0hh/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0hu.png"group-title="Canales",TNT HD
-http://45.5.119.155:8000/play/a0hu/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0km.png"group-title="Canales",TNT Series HD
-http://45.5.119.155:8000/play/a0km/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0ih.png"group-title="Canales",Universal
-http://45.5.119.155:8000/play/a0ih/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0ho.png"group-title="Canales",WARNER HD
-http://45.5.119.155:8000/play/a0ho/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0gt.png"group-title="Canales",A&E HD
-http://45.5.119.155:8000/play/a0gt/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0i3.png"group-title="Canales",UNIVERSAL REALITY HD
-http://45.5.119.155:8000/play/a0i3/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0i5.png"group-title="Canales",UNIVERSAL COMEDY HD
-http://45.5.119.155:8000/play/a0i5/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0kt.png"group-title="Canales",UNIVERSAL CINEMA HD
-http://45.5.119.155:8000/play/a0kt/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0i4.png"group-title="Canales",UNIVERSAL CRIME HD
-http://45.5.119.155:8000/play/a0i4/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0i2.png"group-title="Canales",UNIVERSAL PREMIERE O HD
-http://45.5.119.155:8000/play/a0i2/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_4ab7c9c8be66449eb3a1cb7843534a41~mv2.png"group-title="Canales",N 51 TV
-http://45.5.119.155:8000/play/a03m/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_8faa3ecaf71c4a708752c0919d23ced3~mv2.png"group-title="Canales",Canal Claro
-http://45.5.119.155:8000/play/a0fv/index.m3u8
 #EXTINF:-1 tvg-logo="http://mindlessones.com/wp-content/uploads/2013/10/vlcsnap-00003.jpg"group-title="Canales",DRWHO ES
 https://bbceu-doctorwho-2-es.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png"group-title="Canales",EstrellaTV
@@ -291,6 +178,8 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1
 https://inliveserver.com:1936/14056/14056/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_52efbf86f41a450681b5dbb9a1f5fb67~mv2.png"group-title="Cine",ORBIT TV HD
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_99a9d9d70d1546f8b14042020b7f8f3c~mv2.png"group-title="Canales",Multizonas TV
+https://cloudvideo.servers10.com:8081/8068/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_0ad54aac69d243949617eb84e4be1065~mv2.png"group-title="Cine",CINE RETRO PLUS
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w1432572021.m3u8
 #EXTINF:-1 tvg-logo="https://sarapiquitvcr.com/favImage.png"group-title="Cine",STV
@@ -409,6 +298,124 @@ http://138.59.177.34:8000/play/a02s/index.m3u8
 http://190.92.25.115:8000/play/a0cd
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_c6d06eada326414294bee5a63a0b60a5~mv2.png"group-title="Canales",FX
 http://138.59.177.34:8000/play/a03z/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0jk.png"group-title="Canales",Canal 11 - GUA
+http://45.5.119.155:8000/play/a0jk/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0jj.png"group-title="Canales",Canal 13-GUA
+http://45.5.119.155:8000/play/a0jj/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0h5.png"group-title="Canales",Canal 3 - GUA
+http://45.5.119.155:8000/play/a0h5/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0h3.png"group-title="Canales",TV AZTEKA GUA
+http://45.5.119.155:8000/play/a0h3/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0gu.png"group-title="Canales",AMC HD
+http://45.5.119.155:8000/play/a0gu/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0gq.png"group-title="Canales",Animal Planet HD
+http://45.5.119.155:8000/play/a0gq/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0iy.png"group-title="Canales",AXN HD
+http://45.5.119.155:8000/play/a0iy/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0gz.png"group-title="Canales",AZ click HD
+http://45.5.119.155:8000/play/a0gz/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0g6.png"group-title="Canales",Azcorazon
+http://45.5.119.155:8000/play/a0g6/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0h8.png"group-title="Canales",Azmundo
+http://45.5.119.155:8000/play/a0h8/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0ik.png"group-title="Canales",Cine Latino
+http://45.5.119.155:8000/play/a0ik/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0hq.png"group-title="Canales",CINECANAL HD
+http://45.5.119.155:8000/play/a0hq/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0il.png"group-title="Canales",CineMax
+http://45.5.119.155:8000/play/a0il/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0hl.png"group-title="Canales",Claro Cinema
+http://45.5.119.155:8000/play/a0hl/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0hy.png"group-title="Canales",Comedy Central HD
+http://45.5.119.155:8000/play/a0hy/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0gy.png"group-title="Canales",DHE HD
+http://45.5.119.155:8000/play/a0gy/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0kn.png"group-title="Canales",Discovery Channel HD
+http://45.5.119.155:8000/play/a0kn/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0hv.png"group-title="Canales",DISCOVERY THEATHER HD
+http://45.5.119.155:8000/play/a0hv/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0ia.png"group-title="Canales",Discovery Turbo
+http://45.5.119.155:8000/play/a0ia/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0kp.png"group-title="Canales",Discovery World HD
+http://45.5.119.155:8000/play/a0kp/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0gr.png"group-title="Canales",E! Entertairment HD
+http://45.5.119.155:8000/play/a0gr/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a00x.png"group-title="Canales",EURO Channel
+http://45.5.119.155:8000/play/a00x/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a00u.png"group-title="Canales",Europa HD
+http://45.5.119.155:8000/play/a00u/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0gs.png"group-title="Canales",Film & arts HD
+http://45.5.119.155:8000/play/a0gs/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0gw.png"group-title="Canales",FX HD
+http://45.5.119.155:8000/play/a0gw/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0gx.png"group-title="Canales",Sony Movies HD
+http://45.5.119.155:8000/play/a0gx/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0jv.png"group-title="Canales",Golden
+http://45.5.119.155:8000/play/a0jv/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0l2.png"group-title="Canales",HBO HD
+http://45.5.119.155:8000/play/a0l2/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0l6.png"group-title="Canales",HBO XTREME HD
+http://45.5.119.155:8000/play/a0l6/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ea714e3b-6ef4-46da-87e9-71eb71141a09_m.jpg"group-title="Canales",HBO2 HD
+http://45.5.119.155:8000/play/a00c/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0jp.png"group-title="Canales",History 2
+http://45.5.119.155:8000/play/a0jp/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0gk.png"group-title="Canales",History Channel HD
+http://45.5.119.155:8000/play/a0gk/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0hx.png"group-title="Canales",HOLA! TV HD
+http://45.5.119.155:8000/play/a0hx/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0hw.png"group-title="Canales",Home & Health HD
+http://45.5.119.155:8000/play/a0hw/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0gb.png"group-title="Canales",LIFE TIME
+http://45.5.119.155:8000/play/a0gb/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0ij.png"group-title="Canales",Multipremier
+http://45.5.119.155:8000/play/a0ij/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0kk.png"group-title="Canales",Nat Geo HD
+http://45.5.119.155:8000/play/a0kk/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0kl.png"group-title="Canales",Paramount HD
+http://45.5.119.155:8000/play/a0kl/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0hp.png"group-title="Canales",SONY HD
+http://45.5.119.155:8000/play/a0hp/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0iz.png"group-title="Canales",SPACE HD
+http://45.5.119.155:8000/play/a0iz/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0hn.png"group-title="Canales",STAR CHANNEL HD
+http://45.5.119.155:8000/play/a0hn/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0g4.png"group-title="Canales",tru tv
+http://45.5.119.155:8000/play/a0g4/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0h0.png"group-title="Canales",Star TVE HD
+http://45.5.119.155:8000/play/a0h0/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0go.png"group-title="Canales",Studio Universal HD
+http://45.5.119.155:8000/play/a0go/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0g9.png"group-title="Canales",TBS
+http://45.5.119.155:8000/play/a0g9/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0jw.png"group-title="Canales",TCM
+http://45.5.119.155:8000/play/a0jw/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0hh.png"group-title="Canales",TLC
+http://45.5.119.155:8000/play/a0hh/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0hu.png"group-title="Canales",TNT HD
+http://45.5.119.155:8000/play/a0hu/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0km.png"group-title="Canales",TNT Series HD
+http://45.5.119.155:8000/play/a0km/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0ih.png"group-title="Canales",Universal
+http://45.5.119.155:8000/play/a0ih/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0ho.png"group-title="Canales",WARNER HD
+http://45.5.119.155:8000/play/a0ho/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0gt.png"group-title="Canales",A&E HD
+http://45.5.119.155:8000/play/a0gt/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0i3.png"group-title="Canales",UNIVERSAL REALITY HD
+http://45.5.119.155:8000/play/a0i3/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0i5.png"group-title="Canales",UNIVERSAL COMEDY HD
+http://45.5.119.155:8000/play/a0i5/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0kt.png"group-title="Canales",UNIVERSAL CINEMA HD
+http://45.5.119.155:8000/play/a0kt/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0i4.png"group-title="Canales",UNIVERSAL CRIME HD
+http://45.5.119.155:8000/play/a0i4/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0i2.png"group-title="Canales",UNIVERSAL PREMIERE O HD
+http://45.5.119.155:8000/play/a0i2/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_4ab7c9c8be66449eb3a1cb7843534a41~mv2.png"group-title="Canales",N 51 TV
+http://45.5.119.155:8000/play/a03m/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_8faa3ecaf71c4a708752c0919d23ced3~mv2.png"group-title="Canales",Canal Claro
+http://45.5.119.155:8000/play/a0fv/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/a9/MrBean.jpg/revision/latest?cb=20220315005856&path-prefix=es"group-title="Canales",Mr Bean
 
 http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/68779
