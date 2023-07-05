@@ -2,9 +2,9 @@
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_5b82076b337b4c83a148146421ad4fcf~mv2.png"group-title="Radios",MundoMix
 https://stream-52.zeno.fm/zs1ynrtnsuhvv?
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/03/Bolivisi%C3%B3n-en-vivo-Online-218x150.png"group-title="Bolivia", Bolivision
-https://nedbolivision.akamaized.net/hls/live/2101283/bolivision/master.m3u8
+https://d3eyooyk041snj.cloudfront.net/hls/live_480p30.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_fb359a4642bc49eaa7418b2e6d2a01dd~mv2.png"group-title="Musicales",UPPTV
-https://nedbolivision.akamaized.net/hls/live/2101284/upptvbo/master.m3u8
+https://d3eyooyk041snj.cloudfront.net/hls/upptv_480.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_0ea3704fc09d442d9ce73abe8315b084~mv2.png"group-title="Bolivia",UNITEL
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_5833fc7fc596498a828dac4212765aee~mv2.png"group-title="Bolivia",RED UNO
@@ -44,7 +44,7 @@ https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_b3ef1a78e9ef40da8532fd54d9234bd7~mv2.png"group-title="Bolivia",TV SHOW
 http://tv.istbolivia.com:1935/tvshow/tvshow/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_1e13f49f1a1447ac939cc7032acafe33~mv2.png"group-title="Bolivia",NEO TV
-https://vdo.panelchs.com:3418/live/neotvlive.m3u8
+https://tv1.mediacp.eu:3661/live/rlbpwxvhlive.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_0315c88dab354c459d16d29102f7fe30~mv2.png"group-title="Bolivia",CEACOM
 https://cloud2.streaminglivehd.com:1936/ceacom/ceacom/chunklist_w1514044271.m3u8
 #EXTINF:-1, tvg-logo="https://www.audiokiss.com/tvlatina/wp-content/uploads/sites/7/2021/03/logo-tvlatina.png"group-title="Bolivia" ,TVLatina
@@ -70,9 +70,7 @@ https://live.seo.tv.bo/live/3SEO.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_3ede3ab9e5b64ddcb6ba215a1caf6c91~mv2.png"group-title="Bolivia",SEO PELICULAS
 https://live.seo.tv.bo/live/4SEO.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_8e5c8e2dca6442f28bfcd801fa2bfdf7~mv2.png"group-title="Bolivia",SEO TV 7
-
 https://live.seo.tv.bo/live/7SEO.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.telesurtv.net/export/sites/telesur/arte/log-iso-telesur.png_253617125.png"group-title="Canales",TELESUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_716402ebe52c4a5eb24d3083f0ac6941~mv2.png"group-title="Canales",RT NOTICIAS
@@ -134,7 +132,7 @@ https://d1qovwsteln4u.cloudfront.net/hls/tvc_480.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_41c5d7639f214568adb5693240afc5de~mv2.png"group-title="Canales",TVC
 https://d1qovwsteln4u.cloudfront.net/hls/tvc_360.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_b993b63b96534457a123c1fe43674638~mv2.png"group-title="Canales",Ciudad Mágica TV
-https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8
+https://tv.initium.net.ar:3235/live/grupocitylive.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_7779ba8cafd74ee8a49b291178943a51~mv2.png"group-title="Canales",CINCO TV
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_c86ecb9be10b42fe9c9f6c2a4b5364e9~mv2.png"group-title="Cine",CANELA TV
@@ -288,16 +286,11 @@ http://190.92.25.115:8000/play/a0cd
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_c6d06eada326414294bee5a63a0b60a5~mv2.png"group-title="Canales",FX
 http://138.59.177.34:8000/play/a03z/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/a9/MrBean.jpg/revision/latest?cb=20220315005856&path-prefix=es"group-title="Canales",Mr Bean
-
 http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/68779
 #EXTINF:-1 tvg-logo="https://www.icmedianet.org/wp/ndog/wp-content/uploads/2014/06/BigBangTheorySeason8.jpg"group-title="Canales",LA TEORIA DEL BIG BANG
-
 http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/131713
 #EXTINF:-1 tvg-logo="https://pictures.betaseries.com/fonds/poster/3b8e302cc9c5e141cf9955f25f30d4d5.jpg"group-title="Canales",La familia peluche
-
 http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/131711
-
-
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/99d1f745bbde1c70f7199fc8c979cd6fa8fd51d920a654e40876f49764b4f701.png"group-title="Cine",TIGUERITOS
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/chunklist_w699540142.m3u8
 
@@ -340,24 +333,16 @@ https://deaplaneta-planetakidz-1-es.samsung.wurl.tv/1200.m3u8
 http://45.160.12.253:8000/play/006
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_236532837ef14376adbcfc7f7195d944~mv2.png"group-title="Infantiles",Disney Jr ES
 http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/4490
-
-
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_236532837ef14376adbcfc7f7195d944~mv2.png"group-title="Infantiles",Disney Jr
 http://138.59.177.34:8000/play/a026/index.m3u8
 #EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2014/07/new-disney-channel-logo.png"group-title="Infantiles",Disney Channel ES
 http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59934
-
-
-
 #EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2014/07/new-disney-channel-logo.png"group-title="Infantiles",Disney Channel MX
 http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/2971
-
-
 #EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2014/07/new-disney-channel-logo.png"group-title="Infantiles",Disney Channel
 http://138.59.177.34:8000/play/a06c/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_faeab7d8acb6447199cdf5b1f4e56767~mv2.png"group-title="Infantiles",Nickelodeon ES
 http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59906
-
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_faeab7d8acb6447199cdf5b1f4e56767~mv2.png"group-title="Infantiles",Nickelodeon MX
 http://138.59.177.34:8000/play/a06b/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_c888431b975241d28500a02157abeee9~mv2.png"group-title="Infantiles",Nick Jr
@@ -381,7 +366,6 @@ http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngarts.com/files/4/Dragon-Ball-Z-Logo-PNG-Image-Background.png"group-title="Infantiles",DRAGON BALL Z
 http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59546
 #EXTINF:-1 tvg-logo="https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/crunchyroll/3eb79333155a8e87b2f7be64f064c694.jpe"group-title="Infantiles",Dragon Ball GT
-
 http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59548
 #EXTINF:-1 tvg-logo="https://www.pngplay.com/wp-content/uploads/10/SpongeBob-Transparent-PNG.png"group-title="Infantiles",BOB ESPONJA
 http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/60461
@@ -416,7 +400,6 @@ https://d21no6qan3ol31.cloudfront.net:443/out/v1/a2f25f61e9d44701aa4e813ac5efc4a
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_2384cc64be2f4246a29b7250e1f870c0~mv2.png"group-title="DEPORTES",TyC SPORTS 3
 https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index_10.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_1bce6e04b88044a68fa5dfc3c44aecec~mv2.png"group-title="DEPORTES",Directv Sport Arg
-
 http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/73325
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JcVjxz5/tigo.jpg"tvg-group="DEPORTES",TIGO SPORTS
 http://190.92.25.115:8000/play/a0ca/index.m3u8
@@ -649,7 +632,7 @@ https://stream-52.zeno.fm/zs1ynrtnsuhvv?
 #EXTINF:-1 tvg-logo="https://tropicaltarija.com/images/creativ/logo/logo.png"group-title="Radios",TROPICAL TARIJA
 https://free.rcast.net/63337
 #EXTINF:-1 tvg-logo="https://sonidosenlared.fullstreaming.ar/cp/widgets/player/single/images/mp3_cover2.jpg"group-title="Radios",Ciudad Mágica Radio
-https://sonidosenlared.fullstreaming.ar/8002/stream
+https://radios.solumedia.com/6346/stream
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s165652/images/logog.jpg?t=155085"group-title="Radios",Radio Antena2000
 https://cloudstream2030.conectarhosting.com/8170/stream
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/54ywlwa3e4nw.jpg"group-title="Radios",Correo del Sur
