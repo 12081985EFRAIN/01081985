@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://cvclavoz.com/wp-content/uploads/2021/06/CVCLAVOZ-URBANO-10.jpg"group-title="Bolivia",CVC LA VOZ
 https://streannlivecvc.cachefly.net/Protected/sp=1;dirmatch=true/5213c85025818c3f8d78f129a6f64ee34f0b0ff64b8b51ebebb30647c64e585c/cvclavoz2/cvclavoz2_abr/cvclavoz2/cvclavoz2_1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_0315c88dab354c459d16d29102f7fe30~mv2.png"group-title="Bolivia",CEACOM
-https://eu1.servers10.com:8081/ceacomtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/03/Bolivisi%C3%B3n-en-vivo-Online-218x150.png"group-title="Bolivia", Bolivision
 https://d3mghbm9e5zfap.cloudfront.net/Bolivision/2af819d7c8ab1c07658d1575e55800e5.sdp/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_fb359a4642bc49eaa7418b2e6d2a01dd~mv2.png"group-title="Musicales",UPPTV
@@ -55,6 +53,8 @@ https://5d00db0e0fcd5.streamlock.net/7034/7034/chunklist_w1500290821.m3u8
 http://canaltv.istbolivia.com:1935/megatv/megatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_d1eb2866e42f474db4ef3b8b05c8a459~mv2.png"group-title="Bolivia",ERBOL HD
 https://cloud2.streaminglivehd.com:1936/8182/8182/chunklist_w355303119.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_0315c88dab354c459d16d29102f7fe30~mv2.png"group-title="Bolivia",CEACOM
+https://eu1.servers10.com:8081/ceacomtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://redcctvbolivia.com/images/Recurso-4.png"group-title="Bolivia",Canal Red CCTV
 https://solo.disfrutaenlared.com:1936/redcctv/redcctv/chunklist_w2115830020.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7edb0d_3fd6f38706584a88811c6a710482c489~mv2.png"group-title="Infantiles",ZOY PLUS
@@ -401,28 +401,20 @@ https://stmv1.srvif.com/animetv/animetv/chunklist_w1049494788.m3u8
 
 DEPORTES
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9f54c72aad2c433390f57ebec8f2037c~mv2.png"group-title="DEPORTES",ESPN
-http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv-k9ceMua2QQfhZOHw4CAFw/ts
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9f54c72aad2c433390f57ebec8f2037c~mv2.png"group-title="DEPORTES",ESPN
 http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/73326
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9f54c72aad2c433390f57ebec8f2037c~mv2.png"group-title="DEPORTES",ESPN
 http://45.160.12.253:8000/play/212
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9f54c72aad2c433390f57ebec8f2037c~mv2.png"group-title="DEPORTES",ESPN HD
 http://45.5.119.155:8000/play/a0kg/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9f54c72aad2c433390f57ebec8f2037c~mv2.png"group-title="DEPORTES",ESPN SUR
-http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv9fkcFE8s3IwIH1vIngRSFY/ts
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9f54c72aad2c433390f57ebec8f2037c~mv2.png"group-title="DEPORTES",ESPN 2
 http://45.160.12.253:8000/play/214
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9f54c72aad2c433390f57ebec8f2037c~mv2.png"group-title="DEPORTES",ESPN 2
-http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv5s3tUYNZguRJLz9YdIazYw/ts
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9f54c72aad2c433390f57ebec8f2037c~mv2.png"group-title="DEPORTES",ESPN 2 HD
 http://45.5.119.155:8000/play/a0ki/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9f54c72aad2c433390f57ebec8f2037c~mv2.png"group-title="DEPORTES",ESPN 2 SUR
-http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROvyQlr6lILS1iFybsthZYIgQ/ts
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9f54c72aad2c433390f57ebec8f2037c~mv2.png"group-title="DEPORTES",ESPN 3
 http://45.160.12.253:8000/play/216
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9f54c72aad2c433390f57ebec8f2037c~mv2.png"group-title="DEPORTES",ESPN 3 HD
 http://45.5.119.155:8000/play/a0kh/index.m3u8
-#EXTINF:-1 tvg-logo="https://futbollibrehd.xyz/img/logo-canal/ESPN_4.webp"group-title="DEPORTES",ESPN 4 HD
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9f54c72aad2c433390f57ebec8f2037c~mv2.png"group-title="DEPORTES",ESPN 4 HD
 http://45.5.119.155:8000/play/a0ix/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Espn%2B.png"group-title="DEPORTES",ESPN +
 http://45.5.119.155:8000/play/a0gl/index.m3u8
@@ -440,10 +432,6 @@ http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/73325
 http://190.92.25.115:8000/play/a0ca/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JcVjxz5/tigo.jpg"group-title="DEPORTES",TIGO SPORTS HD
 http://45.5.119.155:8000/play/a02v/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JcVjxz5/tigo.jpg"tvg-group="DEPORTES",TIGO SPORTS 2
-http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROvwUaFBIdtVQ6XzylSgaOlSU/ts
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_00373f8da19e4b0c98cd268e0828100d~mv2.png"tvg-group="DEPORTES",Movistar liga de campeones
-http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv0UpyEYd30KdlOI0j3pvRZI/ts
 #EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0kz.png"group-title="DEPORTES",Claro Sports HD
 http://45.5.119.155:8000/play/a0kz/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_89892eadd20b49559288b5918719906f~mv2.png"tvg-group="DEPORTES",TUDN
