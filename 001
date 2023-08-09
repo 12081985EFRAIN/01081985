@@ -77,14 +77,16 @@ https://live.seo.tv.bo/live/7SEO.m3u8
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_716402ebe52c4a5eb24d3083f0ac6941~mv2.png"group-title="Canales",RT NOTICIAS
 https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
-#EXTINF:-1 tvg-logo="https://miradasdoc.com/mdoc2020/wp-content/uploads/2020/01/DW-logo.jpg"group-title="Canales",DW NOTICIAS
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_15ee647152ce45bcb3f54c15d4f284e3~mv2.png"group-title="Canales",DW NOTICIAS
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream02/streamPlaylist.m3u8
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/477_Telered.png"group-title="Canales",Telered
-http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_ce918a77d0e843c9a0a871d04492e7dd~mv2.png"group-title="Canales",TV Perú Internacional
-https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_3.m3u8
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-o9pPhGXrzMU/UDQYqcGik4I/AAAAAAAAVVg/V01-iTq7J0g/s1600/TLX.png"group-title="Canales",Telemax TLX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_ce918a77d0e843c9a0a871d04492e7dd~mv2.png"group-title="Canales",TV Perú Internacional
+https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_3.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_e2ee6975df114fffb28e8cf642f64f4e~mv2.png"group-title="Canales",Telered
+http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_e2ee6975df114fffb28e8cf642f64f4e~mv2.png"group-title="Canales",Telered Costa Rica
+https://video20.klm99.com:3558/live/teleredlive.m3u8
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image72207948286.jpg"group-title="Canales",CANAL 12
 https://d273tvzn6z86cs.cloudfront.net/Canal12SV/d8d7dedcfe37a9a9da9d9f69058b82b7.sdp/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/V/vtv-honduras-logo-3680BE9BFF-seeklogo.com.png"group-title="Canales",VTV
@@ -101,8 +103,8 @@ https://d2vb5iv6i34lh5.cloudfront.net/TVCEC/d58f5eb5cbb9ad9c56649a0083de7c8b.sdp
 https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/chunklist_w1802213476_b3230635.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_6a6ebbca2eb34802a49d2f27ec7917e0~mv2.png"group-title="Canales",TeleSUR
 https://s1.tvdatta.com:3582/live/telesurlive.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9ffaa5684d934605808320be38f27d49~mv2.png"group-title="Cine",NEO TV HD
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_0da770191d3a4f49bc2fae5226cdb9f2~mv2.png"group-title="Canales",Best TV
+https://ca2.inka.net.pe/BesTv-001120000100/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_e96c9ef4218b4814bd21a00205abdffe~mv2.png"group-title="Canales",TDI Colombia
 https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_74c8b5f0ab5d46dfacdb8124ca8e10e8~mv2.png"group-title="Canales",RetroPlay TV
@@ -171,8 +173,6 @@ https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 https://cloudvideo.servers10.com:8081/8068/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_0ad54aac69d243949617eb84e4be1065~mv2.png"group-title="Cine",CINE RETRO PLUS
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w1432572021.m3u8
-#EXTINF:-1 tvg-logo="https://sarapiquitvcr.com/favImage.png"group-title="Cine",STV
-https://lstv.duckdns.org:449/hls/stv.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/208_CINE_AR.png"group-title="Cine",CINE AR
 https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/chunklist_w1213246933.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9098c16148894b46ad5bcd06cbb4cb52~mv2.png"group-title="Cine",PLANETA MOVIES
@@ -289,6 +289,10 @@ http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/68779
 http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/131713
 #EXTINF:-1 tvg-logo="https://pictures.betaseries.com/fonds/poster/3b8e302cc9c5e141cf9955f25f30d4d5.jpg"group-title="Canales",La familia peluche
 http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/131711
+#EXTINF:-1 tvg-logo="https://sarapiquitvcr.com/favImage.png"group-title="Cine",STV
+https://lstv.duckdns.org:449/hls/stv.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9ffaa5684d934605808320be38f27d49~mv2.png"group-title="Cine",NEO TV HD
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_1045e40ee9f9492ea5f0fbac4ae32d7d~mv2.png"group-title="Canales",TVS
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_dbd4f60565db4c659616d7a4f72e97b3~mv2.png"group-title="Canales",FrecuenciaMusicalTV
@@ -521,9 +525,9 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w777505469.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_e7c8612fe0ef47838b64b8fc3529f16e~mv2.png"group-title="Musicales",SPIRIT TV
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_972e89a72f034780b3ac3557aa6f40b1~mv2.png"group-title="Canales",SOL MUSICA
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_972e89a72f034780b3ac3557aa6f40b1~mv2.png"group-title="Musicales",SOL MUSICA
 https://d2glyu450vvghm.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/472860c7-a56c-443d-b726-13e464b3b50a/0.m3u8
-#EXTINF:-1 tvg-logo="https://telemusica.tv/wp-content/uploads/2022/08/Telemusicax512.png"group-title="Canales",TeleMusica
+#EXTINF:-1 tvg-logo="https://telemusica.tv/wp-content/uploads/2022/08/Telemusicax512.png"group-title="Musicales",TeleMusica
 https://canal.mediaserver.com.co:8088/live/telemusica.m3u8?hls_ctx=2s1u6yl0
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_1b2c7eb5c0024ac7b3522b17829d24bb~mv2.png"group-title="Musicales",Hits 360
 http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8?PlaylistM3UCL
@@ -573,8 +577,6 @@ https://cloud3.streaminglivehd.com:1936/8068/8068/chunklist_w2129411212.m3u8
 https://ca2.inka.net.pe/best-MasCum-0102210011/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_cdf0de43dd524ac2b08503a0a893d606~mv2.png"group-title="Musicales",Best Cable Music
 https://ca2.inka.net.pe/best-Music-00112000050/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_0da770191d3a4f49bc2fae5226cdb9f2~mv2.png"group-title="Musicales",Best TV
-https://ca2.inka.net.pe/BesTv-001120000100/index.m3u8
 #EXTINF:-1 tvg-logo="https://app.latinzonetv.com/apiv3/release/iphone/10/photo/navBar_titleImage@2x.png"group-title="Musicales",Latin Zone TV
 https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2022/01/Canal-voice-en-vivo.jpg"group-title="Musicales",VEO TV MUSIC
@@ -775,6 +777,8 @@ https://cast.az-streamingserver.com/proxy/grupoeld?mp=/stream
 https://audio.bustream.com:8032/stream
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/yxqpascr3kgn.png"group-title="Radios",Radio Guadalupe 105.1 FM
 http://radios.istbolivia.com:9304/stream
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/j4zylugz8drx.jpg"group-title="Radios",Radio Popular
+https://stream-163.zeno.fm/8ze4589b47zuv?zs=mWbe_pH4SjSkV2nhFENs5w
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/apsklasgv32a.jpg"group-title="Radios",MegaDJ Bolivia
 https://stream-13.zeno.fm/zyu31nv6twzuv?zs=bpaU-ZwzS0uWNn7-24qd5A
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/x7sd6s785sq9.jpg"group-title="Radios",RADIO KANTUTA
