@@ -73,14 +73,6 @@ httpr:xxx.com/140151
 httpr:xxx.com/105
 #EXTINF:-1 grupo-titulo="CINECANAL",CINECANAL (N)
 httpr:xxx.com/335
-#EXTINF:-1 grupo-título="A&E",A&E 2-
-httpr:tv-cool.com:xxx.com30656
-#EXTINF:-1 grupo-título="A&E",A&E
-httpr:tv-cool.com:xxx.com29795
-#EXTINF:-1 grupo-título="AMC",AMC 2-
-httpr:tv-cool.com:xxx.com45928
-#EXTINF:-1 grupo-título="AMC",AMC -
-httpr:tv-cool.com:xxx.com45874
 #EXTINF:-1 grupo-título="AXN",AXN 2-
 httpr:tv-cool.com:xxx.com30659
 #EXTINF:-1 grupo-título="AXN",AXN -
