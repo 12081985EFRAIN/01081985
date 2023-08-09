@@ -101,16 +101,6 @@ httpr:xxx.com/60987
 httpr:xxx.com/60988
 #EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 1 SUR FHD
 httpr:xxx.com/63964
-#EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 2 SUR FHD
-httpr:xxx.com/63965
-#EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 3 SUR FHD
-httpr:xxx.com/63966
-#EXTINF:-1 grupo-título="FOX SPORTS",Fox Sports 2
-httpr:xxx.com/87456
-#EXTINF:-1 grupo-título="FOX SPORTS",Fox Sports 3
-httpr:xxx.com/87457
-#EXTINF:-1 group-title="FOX SPORTS",Fox Sports 1
-httpr:xxx.com/71130.ts
 #EXTINF:-1 group-title="FOX SPORTS",Fox Sports 3
 httpr:xxx.com/71136.ts
 #EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS 2
