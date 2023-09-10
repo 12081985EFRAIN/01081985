@@ -266,9 +266,13 @@ http://190.92.25.115:8000/play/a0a8/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_728ff03c92a640c98dc87a97d17b1f97~mv2.png"group-title="Entretenimiento",PASIONES
 http://190.92.25.115:8000/play/a0a7/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_b2d477c8888b4167b0ab208465af0b6b~mv2.png"group-title="Entretenimiento",RCN Novelas
+http://daleplay.club:8080/sL6DLjV9YCEX/3eXcB6FcCV/144409
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_b2d477c8888b4167b0ab208465af0b6b~mv2.png"group-title="Entretenimiento",RCN Novelas
 http://138.59.177.34:8000/play/a040/index.m3u8
 #EXTINF:-1 tvg-id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Entretenimiento",RCN Más
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_5fbe403cd58d44ca9a88d1be6ce8fd7b~mv2.png"group-title="Entretenimiento",TELEMUNDO
+http://daleplay.club:8080/sL6DLjV9YCEX/3eXcB6FcCV/411
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_5fbe403cd58d44ca9a88d1be6ce8fd7b~mv2.png"group-title="Entretenimiento",TELEMUNDO
 http://190.92.25.115:8000/play/a0ak/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png"group-title="Entretenimiento",TELEMUNDO Puerto Rico
@@ -547,55 +551,123 @@ https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.m3u8
 https://streamyes.alsolnet.com/esportsmax/live/.m3u8
 #EXTINF:-1 tvg-id="eSportsMaxTV.ve" tvg-logo="https://i.imgur.com/mvNLE8f.png"group-title="Infantil",Esports Max
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/9e/bc/1c/9ebc1ce852de804589241a848d44c037.jpg"group-title="Infantil",24/7 DRAGON BALL
+http://daleplay.club:8080/sL6DLjV9YCEX/3eXcB6FcCV/110585
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/9e/bc/1c/9ebc1ce852de804589241a848d44c037.jpg"group-title="Infantil",24/7 DRAGON BALL
+http://daleplay.club:8080/sL6DLjV9YCEX/3eXcB6FcCV/110638
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/29/b6/6a/29b66ad0b2d02e05d1192ed20b35c439.jpg"group-title="Infantil",24/7 DRAGON BALL Z
+http://daleplay.club:8080/sL6DLjV9YCEX/3eXcB6FcCV/86348
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/7d/83/bf/7d83bfe77cf0948b86f971bad28c0c20.jpg"group-title="Infantil",24/7 SERIES INFANTILES | DRAGON BALL SUPER
+http://daleplay.club:8080/sL6DLjV9YCEX/3eXcB6FcCV/110479
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/47/89/66/47896632e4835a73df040f1a8e5f38b9.jpg"group-title="Infantil",24/7 SERIES INFANTILES | DRAGON BALL GT
+http://daleplay.club:8080/sL6DLjV9YCEX/3eXcB6FcCV/110480
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/3c/1c/b6/3c1cb696f25d996b9f0fd4d3ac3fc9ef.jpg"group-title="Infantil",24/7 SERIES INFANTILES | CABALLERO DEL ZODIACO
+http://daleplay.club:8080/sL6DLjV9YCEX/3eXcB6FcCV/110484
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/36/a9/82/36a982252084e26f4c3392ae42a76245.jpg"group-title="Infantil",24/7 EL GALLO CLAUDIO
+http://daleplay.club:8080/sL6DLjV9YCEX/3eXcB6FcCV/110587
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/83/56/f6/8356f632a24628e310f1715ab2f8b4ce.jpg"group-title="Infantil",24/7 ll SUPER CAMPEONES
+http://daleplay.club:8080/sL6DLjV9YCEX/3eXcB6FcCV/110591
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_a21031d5e8de46c89d5a3b836d794da5~mv2.png"group-title="Infantil",24/7 LOS SIMPSON
+http://daleplay.club:8080/sL6DLjV9YCEX/3eXcB6FcCV/110593
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/96/8f/9f/968f9fa4e7e37e0e62bb31d237735f78.jpg"group-title="Infantil",24/7 MAZINGER Z
+http://daleplay.club:8080/sL6DLjV9YCEX/3eXcB6FcCV/110594
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/ed/c5/a8/edc5a82c37852ce8eea264b7217ecc4f.jpg"group-title="Infantil",24/7 II HE - MAN
+http://daleplay.club:8080/sL6DLjV9YCEX/3eXcB6FcCV/110606
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_f7683016923e4f87956bd598a1a4bbf1~mv2.png"group-title="Infantil",24/7 FUTURAMA
+http://daleplay.club:8080/sL6DLjV9YCEX/3eXcB6FcCV/110611
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/e8/59/2a/e8592a40642353e7e4fc4417a06f23ef.jpg"group-title="Infantil",24/7 ALADIN
+http://daleplay.club:8080/sL6DLjV9YCEX/3eXcB6FcCV/110612
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_4428cab28a5542b289f95b4b19027f38~mv2.png"group-title="Infantil",24/7 LOS PITUFOS
+http://daleplay.club:8080/sL6DLjV9YCEX/3eXcB6FcCV/110613
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/88/95/51/8895518046b091303ae85e4901b7bf9e.jpg"group-title="Infantil",24/7 LONNEY TUNES
+http://daleplay.club:8080/sL6DLjV9YCEX/3eXcB6FcCV/110614
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/2a/9d/59/2a9d595ece273ac146adf3852a21ebb9.jpg"group-title="Infantil",24/7 TOM Y JERRY
+http://daleplay.club:8080/sL6DLjV9YCEX/3eXcB6FcCV/110615
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/40/18/6e/40186e236e6a928cb7e0017412ebf686.jpg"group-title="Infantil",24/7 EL INSPECTOR
+http://daleplay.club:8080/sL6DLjV9YCEX/3eXcB6FcCV/110641
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_4327a9907fac4d078f5c845cbb48f468~mv2.png"group-title="Infantil",24/7 LA PANTERA ROSA
+http://daleplay.club:8080/sL6DLjV9YCEX/3eXcB6FcCV/110589
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_4327a9907fac4d078f5c845cbb48f468~mv2.png"group-title="Infantil",24/7 LA PANTERA ROSA
+http://daleplay.club:8080/sL6DLjV9YCEX/3eXcB6FcCV/110642
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/85/a2/3d/85a23d5ab9c247359903843d70232b78.jpg"group-title="Infantil",24/7 ll EL COYOTE Y CORRECAMINOS
+http://daleplay.club:8080/sL6DLjV9YCEX/3eXcB6FcCV/110643
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/85/a2/3d/85a23d5ab9c247359903843d70232b78.jpg"group-title="Infantil",24/7 ll EL COYOTE Y CORRECAMINOS
+http://daleplay.club:8080/sL6DLjV9YCEX/3eXcB6FcCV/110590
 
 DEPORTES
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_c36b9d281a774cb8953d775881a4db6a~mv2.png"group-title="Deporte",Best Cable Sport
 https://ca2.inka.net.pe/Best-sport-00000x111/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9f54c72aad2c433390f57ebec8f2037c~mv2.png"group-title="Deporte",ESPN
-http://168.194.171.33:8000/play/a082/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9f54c72aad2c433390f57ebec8f2037c~mv2.png"group-title="Deporte",ESPN
-http://45.160.12.253:8000/play/212
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9f54c72aad2c433390f57ebec8f2037c~mv2.png"group-title="Deporte",ESPN SD
+http://daleplay.club:8080/sL6DLjV9YCEX/3eXcB6FcCV/230
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9f54c72aad2c433390f57ebec8f2037c~mv2.png"group-title="Deporte",ESPN SD
+http://daleplay.club:8080/sL6DLjV9YCEX/3eXcB6FcCV/73
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9f54c72aad2c433390f57ebec8f2037c~mv2.png"group-title="Deporte",ESPN HD
-http://45.5.119.155:8000/play/a0kg/index.m3u8
+http://daleplay.club:8080/sL6DLjV9YCEX/3eXcB6FcCV/74
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9f54c72aad2c433390f57ebec8f2037c~mv2.png"group-title="Deporte",ESPN HD
+http://daleplay.club:8080/sL6DLjV9YCEX/3eXcB6FcCV/52968
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9f54c72aad2c433390f57ebec8f2037c~mv2.png"group-title="Deporte",ESPN 2
-http://45.160.12.253:8000/play/214
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9f54c72aad2c433390f57ebec8f2037c~mv2.png"group-title="Deporte",ESPN 3
-http://45.160.12.253:8000/play/216
+http://daleplay.club:8080/sL6DLjV9YCEX/3eXcB6FcCV/71
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9f54c72aad2c433390f57ebec8f2037c~mv2.png"group-title="Deporte",ESPN 2
+http://daleplay.club:8080/sL6DLjV9YCEX/3eXcB6FcCV/49631
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9f54c72aad2c433390f57ebec8f2037c~mv2.png"group-title="Deporte",ESPN 3 SD
+http://daleplay.club:8080/sL6DLjV9YCEX/3eXcB6FcCV/66
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9f54c72aad2c433390f57ebec8f2037c~mv2.png"group-title="Deporte",ESPN 3 SD
+http://daleplay.club:8080/sL6DLjV9YCEX/3eXcB6FcCV/54169
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9f54c72aad2c433390f57ebec8f2037c~mv2.png"group-title="Deporte",ESPN 3 HD
-http://45.5.119.155:8000/play/a0kh/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9f54c72aad2c433390f57ebec8f2037c~mv2.png"group-title="Deporte",ESPN 4 HD
-http://45.5.119.155:8000/play/a0ix/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Espn%2B.png"group-title="Deporte",ESPN +
-http://45.5.119.155:8000/play/a0gl/index.m3u8
+http://daleplay.club:8080/sL6DLjV9YCEX/3eXcB6FcCV/68
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9f54c72aad2c433390f57ebec8f2037c~mv2.png"group-title="Deporte",ESPN 3 HD
+http://daleplay.club:8080/sL6DLjV9YCEX/3eXcB6FcCV/52965
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9f54c72aad2c433390f57ebec8f2037c~mv2.png"group-title="Deporte",ESPN PREMIUM
+http://daleplay.club:8080/sL6DLjV9YCEX/3eXcB6FcCV/81254
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_d39a3a401b354d63a7c22e1db59e496f~mv2.png"group-title="Deporte",TNT SPORTS SD
+http://daleplay.club:8080/sL6DLjV9YCEX/3eXcB6FcCV/1379
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_d39a3a401b354d63a7c22e1db59e496f~mv2.png"group-title="Deporte",TNT SPORTS HD
+http://daleplay.club:8080/sL6DLjV9YCEX/3eXcB6FcCV/81251
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_2384cc64be2f4246a29b7250e1f870c0~mv2.png"group-title="Deporte",TyC SPORTS 2
 https://d21no6qan3ol31.cloudfront.net:443/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index_13.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_2384cc64be2f4246a29b7250e1f870c0~mv2.png"group-title="Deporte",TyC SPORTS 3
 https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index_10.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JcVjxz5/tigo.jpg"tvg-group="DEPORTES",TIGO SPORTS
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_2384cc64be2f4246a29b7250e1f870c0~mv2.png"group-title="Deporte",TyC SPORTS SD
+http://daleplay.club:8080/sL6DLjV9YCEX/3eXcB6FcCV/1380
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_2384cc64be2f4246a29b7250e1f870c0~mv2.png"group-title="Deporte",TyC SPORTS HD
+http://daleplay.club:8080/sL6DLjV9YCEX/3eXcB6FcCV/1382
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JcVjxz5/tigo.jpg"group-title="Deporte",TIGO SPORTS
 http://190.92.25.115:8000/play/a0ca/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JcVjxz5/tigo.jpg"group-title="Deporte",TIGO SPORTS HD
-http://45.5.119.155:8000/play/a02v/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_86fe0d9bf8f344f18fc943c63d878b8c~mv2.png"group-title="Deporte",Win+ Sports
 http://45.172.218.126:8000/play/a00f/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_86fe0d9bf8f344f18fc943c63d878b8c~mv2.png"group-title="Deporte",Win+ Sports
 http://168.194.171.33:8000/play/a05b/index.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-logo-2FF867A05A-seeklogo.com.png"group-title="Deporte",FOX SPORTS
-http://45.160.12.253:8000/play/209
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JCfZ5R2/foxsports2.png"group-title="Deporte",FOX SPORTS 2
-http://45.160.12.253:8000/play/210
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JCfZ5R2/foxsports2.png"group-title="Deporte",FOX SPORTS 2-1
-http://190.92.25.115:8000/play/a0ab/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_1614c309afed46fcad1183dc5f178db8~mv2.png" tvg-group="DEPORTES",FOX SPORTS 3-1
-http://45.160.12.253:8000/play/211
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_1614c309afed46fcad1183dc5f178db8~mv2.png" tvg-group="DEPORTES",FOX SPORTS 3-2
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_86fe0d9bf8f344f18fc943c63d878b8c~mv2.png"group-title="Deporte",Win+ Sports HD
+http://daleplay.club:8080/sL6DLjV9YCEX/3eXcB6FcCV/1384
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-logo-2FF867A05A-seeklogo.com.png"group-title="Deporte",FOX SPORTS 1 SD
+http://daleplay.club:8080/sL6DLjV9YCEX/3eXcB6FcCV/99837
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-logo-2FF867A05A-seeklogo.com.png"group-title="Deporte",FOX SPORTS 1 HD
+http://daleplay.club:8080/sL6DLjV9YCEX/3eXcB6FcCV/99836
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JCfZ5R2/foxsports2.png"group-title="Deporte",FOX SPORTS 2 SD
+http://daleplay.club:8080/sL6DLjV9YCEX/3eXcB6FcCV/79
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JCfZ5R2/foxsports2.png"group-title="Deporte",FOX SPORTS 2 HD
+http://daleplay.club:8080/sL6DLjV9YCEX/3eXcB6FcCV/80
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JCfZ5R2/foxsports2.png"group-title="Deporte",FOX SPORTS 2 HD
+http://daleplay.club:8080/sL6DLjV9YCEX/3eXcB6FcCV/100116
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_1614c309afed46fcad1183dc5f178db8~mv2.png" group-title="Deporte",FOX SPORTS 3 SD
+http://daleplay.club:8080/sL6DLjV9YCEX/3eXcB6FcCV/76
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_1614c309afed46fcad1183dc5f178db8~mv2.png" group-title="Deporte",FOX SPORTS 3 HD
+http://daleplay.club:8080/sL6DLjV9YCEX/3eXcB6FcCV/77
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_1614c309afed46fcad1183dc5f178db8~mv2.png" group-title="Deporte",FOX SPORTS 3-2
 http://190.92.25.115:8000/play/a0a0/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_1614c309afed46fcad1183dc5f178db8~mv2.png" tvg-group="DEPORTES",FOX SPORTS 3-3
 http://138.59.177.34:8000/play/a02h/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0kj.png"group-title="Deporte",FOX SPORTS 3 HD
-http://45.5.119.155:8000/play/a0kj/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-logo-2FF867A05A-seeklogo.com.png"group-title="Deporte",FOX SPORTS 3 SD
+http://daleplay.club:8080/sL6DLjV9YCEX/3eXcB6FcCV/50509
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-logo-2FF867A05A-seeklogo.com.png"group-title="Deporte",FOX SPORTS 3 HD
+http://daleplay.club:8080/sL6DLjV9YCEX/3eXcB6FcCV/50508
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-logo-2FF867A05A-seeklogo.com.png"group-title="Deporte",FOX SPORTS PREMIUM SD
+http://daleplay.club:8080/sL6DLjV9YCEX/3eXcB6FcCV/11572
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-logo-2FF867A05A-seeklogo.com.png"group-title="Deporte",FOX SPORTS PREMIUM HD
+http://daleplay.club:8080/sL6DLjV9YCEX/3eXcB6FcCV/11571
 #EXTINF:-1 tvg-logo="https://new.tvpublica.com.ar/wp-content/uploads/2021/05/DeporTVOK-300x225.jpg"group-title="Deporte",DEPORTV
 http://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/PvbxdvYqCV.png"tvg-group="DEPORTES",Ovacion
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/PvbxdvYqCV.png"group-title="Deporte",Ovacion
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png"group-title="Deporte",HARD KNOCKS
 https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099463/27b77ba0-7811-4145-95bc-b5fde8ff2300.m3u8
@@ -603,8 +675,7 @@ https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 tvg-logo="https://appcmsprod.viewlift.com/0000014c-edbe-da12-a1fc-fdbe2f120000/images/generated/placeholder-poster.png"group-title="Deporte",FTF SPORT
 https://eleven-rebroadcast-samsung.plex.wurl.com/manifest/0826b675ffa05367e2022aa832b68272.m3u8
-#EXTINF:-1 tvg-logo="https://television-planet.tv/uploads/posts/rtxgetg44tt3545tplanet-television.png"group-title="Deporte",ALL SPORTS
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+
 
 MÚSICA
 #EXTINF:-1 tvg-id="PowerHD.ar" tvg-logo="https://i.imgur.com/15gMDG0.png" group-title="Musical",PowerHD (720p)
